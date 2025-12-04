@@ -48,5 +48,5 @@ This project presents a comprehensive sales analysis dashboard for Bosch, built 
 - Clean, branded layout optimized for executive review
 - AI-generated data ensures flexibility and realism for portfolio use
 -
-    DASHBOARD PREVIEW:
+🖼️ DASHBOARD PREVIEW:
 -   ( https://github.com/sauravsarkar77/Bosch_Sales_Report/blob/main/Bosch_Snapshot.png )    
